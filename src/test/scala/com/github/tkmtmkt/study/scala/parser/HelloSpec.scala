@@ -1,4 +1,4 @@
-package example
+package com.github.tkmtmkt.scala.parser
 
 import org.scalatest._
 
