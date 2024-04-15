@@ -1,4 +1,4 @@
-study-scala-parser
+trial-scala-parser
 ==================
 
 Scalaのパーサコンビネータについて勉強する。
